@@ -1,4 +1,4 @@
-public class Task1Demo {
+public class ExceptionDemo {
     public static void main(String[] args) throws IncorrectMarksException {
         Student student1 = new Student("Abhishek Keshri", 12, 10, new int[] { 79, 80, 96, 85, 83, 80 });
         Student student2 = new Student("2KAbhishek", 12, 10, new int[] { 79, 80, 96, 45, 83, 80 });
