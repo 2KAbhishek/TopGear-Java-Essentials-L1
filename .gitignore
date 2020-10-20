@@ -1,2 +1,8 @@
 # Class files
 *.class
+
+# Output gzip
+*.gzip
+
+# Text files
+*.txt
