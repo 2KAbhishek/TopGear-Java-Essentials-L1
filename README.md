@@ -1,6 +1,3 @@
-# Java-Essentials-L1
-
-Contains solutions for Java-Essentials-L1 problems.
 <div align = "center">
 
 <h1><a href="https://2kabhishek.github.io/TopGear-Java-Essentials-L1">TopGear-Java-Essentials-L1</a></h1>
@@ -26,12 +23,7 @@ Contains solutions for Java-Essentials-L1 problems.
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
-
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-Java-Essentials-L1/master/images/screenshot.jpg" alt="TopGear-Java-Essentials-L1 Demo" style="width:100%">
-  <figcaption>TopGear-Java-Essentials-L1 Screenshot</figcaption>
-</figure>
+<h2>Solutions for Java-Essentials-L1 Problems ☕🧮</h2>
 
 </div>
 
@@ -76,28 +68,6 @@ Example:
 
 
 ```
-
-## How it was built
-
-TopGear-Java-Essentials-L1 was built using `<tech/library>`
-
-## Challenges faced
-
-While building TopGear-Java-Essentials-L1 the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building TopGear-Java-Essentials-L1 I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Add colors to the UI, a configuration management system.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
 
 Hit the :star: button if you found this useful.
 
